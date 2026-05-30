@@ -3,13 +3,25 @@
 4th Year Software Engineering Student at KFU interested in Backend Engineering, and Machine Learning.
 
 ### Repositories
+## Repositories
 
-- 🚀 [AI Lab Equipment Marketplace](https://github.com/abdom000/ai-lab-equipment-marketplace)
-- 🛠️ [Backend Projects](https://github.com/abdom000/backend-projects)
-- 🤖 [ML & Data Science](https://github.com/abdom000/ML-DS)
-- 📚 [CS Foundations](https://github.com/abdom000/cs-foundations)
-- 🌐 [Networking Labs](https://github.com/abdom000/networking-labs)
-- 🎓 [University Assignments](https://github.com/abdom000/university-assignments)
+- 🚀 **[AI Lab Equipment Marketplace](https://github.com/abdom000/ai-lab-equipment-marketplace)**  
+  Microservices backend with FastAPI, PostgreSQL, Kafka, Docker, API Gateway, JWT authentication, and AI assistant.
+
+- 🛠️ **[Backend Projects](https://github.com/abdom000/backend-projects)**  
+  Collection of FastAPI, Flask, and Django backend applications.
+
+- 🤖 **[ML & Data Science](https://github.com/abdom000/ML-DS)**  
+  Machine learning, data science, and analytics projects.
+
+- 📚 **[CS Foundations](https://github.com/abdom000/cs-foundations)**  
+  Programming fundamentals, Linux, Git, algorithms, and software development concepts.
+
+- 🌐 **[Networking Labs](https://github.com/abdom000/networking-labs)**  
+  Cisco Packet Tracer labs covering OSPF, VLANs, NAT, DHCP, ACLs, and routing.
+
+- 🎓 **[University Assignments](https://github.com/abdom000/university-assignments)**  
+  Project management, UML diagrams, requirements engineering, and academic deliverables.
 
 ### Other Profiles
 
