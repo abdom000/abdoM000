@@ -1,110 +1,33 @@
-# Hi, I'm Abdelrahman Mohamed 👋
+}
+# Abdelrahman Mohamed
 
-Software Engineering student focused on Backend Development, Machine Learning, Distributed Systems, and Data Science.
+Software Engineering Student | Backend Development | Machine Learning
 
-I enjoy building systems that combine solid software engineering practices with practical AI applications.
+## Projects
 
----
+- 🚀 AI Lab Equipment Marketplace
+  - FastAPI, PostgreSQL, Kafka, Docker, Microservices
 
-## Featured Projects
+- 🛠️ Backend Projects
+  - FastAPI, Flask, Django applications
 
-### 🚀 Backend & Distributed Systems
-
-- 📦 AI-Powered Lab Equipment Booking Marketplace
-  - Microservices architecture
-  - FastAPI, PostgreSQL, Kafka, Docker
-  - API Gateway, JWT Authentication, AI Assistant
-  - Event-driven design
-
-- 🛠️ Backend Projects Collection
-  - FastAPI APIs
-  - Flask applications
-  - Django applications
-  - Database-driven systems
-
----
-
-### 🤖 Machine Learning & Data Science
-
-- 📊 ML-DS
-  - Machine Learning coursework
-  - Data analysis
-  - Clustering
-  - Classification
-  - Model evaluation
-
----
-
-### 💻 Computer Science Fundamentals
+- 🤖 ML & Data Science
+  - Machine Learning, Data Analysis, Coursework
 
 - 📚 CS Foundations
-  - Algorithms
-  - Data Structures
-  - Linux
-  - Git
-  - System fundamentals
+  - Algorithms, Linux, Git, Programming Fundamentals
 
 - 🌐 Networking Labs
-  - OSPF
-  - VLANs
-  - NAT
-  - DHCP
-  - ACLs
-  - Cisco Packet Tracer labs
+  - OSPF, VLANs, NAT, DHCP, ACLs
 
----
+- 🎓 University Assignments
+  - Project Management, UML, Requirements Engineering
 
-### 🎓 Academic & Project Management
+## Profiles
 
-- 📋 University Assignments
-  - Project management documentation
-  - UML diagrams
-  - Requirements engineering
-  - Risk management
-  - Software planning
+- LeetCode: https://leetcode.com/u/abdoM000/
+- Kaggle: https://www.kaggle.com/ab00dm0
 
----
+## Focus
 
-## Tech Stack
-
-### Languages
-Python
-
-### Backend
-FastAPI
-Flask
-Django
-
-### Databases
-PostgreSQL
-SQLite
-
-### DevOps & Tools
-Docker
-Git
-Linux
-
-### AI & Data
-Pandas
-NumPy
-Scikit-Learn
-
----
-
-## Current Focus
-
-- Backend Engineering
-- Distributed Systems & Microservices
-- Machine Learning
-- Data Science
-- System Design
-
----
-
-## Connect
-
-- GitHub: https://github.com/abdom000
-
----
-
-> Building projects, breaking projects, fixing projects, and occasionally documenting them before future me forgets how they work.
+Backend Engineering • Distributed Systems • Machine Learning • Data Scien
