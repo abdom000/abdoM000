@@ -1,60 +1,110 @@
-# Hi, I'm Abdelrahman 👋
+# Hi, I'm Abdelrahman Mohamed 👋
 
-I'm a 4th-year Software Engineering student at Kazan Federal University and a learner on the **ML/DS track at School 21** (Sber's peer-to-peer engineering school, part of the 42 Network).
+Software Engineering student focused on Backend Development, Machine Learning, Distributed Systems, and Data Science.
 
-I build practical ML and backend solutions using Python, SQL, and scikit-learn — with hands-on experience in data preprocessing, model evaluation, API development, and applied AI projects. I'm interested in reliable ML systems, AI-assisted products, and real-world data-driven applications.
-
-Currently looking for **ML Engineer** or **Data Science** internship opportunities.
+I enjoy building systems that combine solid software engineering practices with practical AI applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-**Languages:** Python · SQL · C · C#  
-**ML & Data:** scikit-learn · Pandas · NumPy · Jupyter Notebook  
-**Backend:** Flask · Django · SQLite  
-**Tools:** Git · UNIX/Linux · REST APIs  
+### 🚀 Backend & Distributed Systems
 
----
+- 📦 AI-Powered Lab Equipment Booking Marketplace
+  - Microservices architecture
+  - FastAPI, PostgreSQL, Kafka, Docker
+  - API Gateway, JWT Authentication, AI Assistant
+  - Event-driven design
 
-## 📌 Featured Projects
-
-### 🔬 [ML Validation Pipeline](https://github.com/abdom000/ML_Validation)
-End-to-end ML validation project covering custom data splitting, cross-validation, feature selection, and hyperparameter tuning. Built to understand how model evaluation works under the hood — not just calling `.fit()`.
-
-**Stack:** Python · scikit-learn · Pandas · Jupyter
-
----
-
-### 🎓 [University Materials Platform](https://github.com/abdom000/uni-materials-platform)
-Django web application for uploading, organizing, and managing university study materials. Includes user authentication, file management, and a clean UI.
-
-**Stack:** Python · Django · SQLite · HTML/CSS
+- 🛠️ Backend Projects Collection
+  - FastAPI APIs
+  - Flask applications
+  - Django applications
+  - Database-driven systems
 
 ---
 
-### 📊 [Data Science Projects](https://github.com/abdom000/DS_projects)
-A collection of data analysis and ML projects covering real datasets — including EDA, feature engineering, and predictive modeling.
+### 🤖 Machine Learning & Data Science
 
-**Stack:** Python · Pandas · NumPy · scikit-learn · Jupyter
-
----
-
-## 🎯 Currently Working On
-
-- Completing the ML/DS track at **School 21** (42 Network, Kazan)
-- Building a marketplace app with an AI-agent-based assistant for smart user support
-- Improving code quality, project documentation, and reproducibility
+- 📊 ML-DS
+  - Machine Learning coursework
+  - Data analysis
+  - Clustering
+  - Classification
+  - Model evaluation
 
 ---
 
-## 📫 Reach Me
+### 💻 Computer Science Fundamentals
 
-- 📧 [abdom000@mail.ru](mailto:abdom000@mail.ru)
-- 🏆 [Kaggle — ab00dm0](https://www.kaggle.com/ab00dm0)
-- 💻 [LeetCode — abdoM000](https://leetcode.com/u/abdoM000/)
-- 🌍 Based in Kazan, Russia
+- 📚 CS Foundations
+  - Algorithms
+  - Data Structures
+  - Linux
+  - Git
+  - System fundamentals
+
+- 🌐 Networking Labs
+  - OSPF
+  - VLANs
+  - NAT
+  - DHCP
+  - ACLs
+  - Cisco Packet Tracer labs
 
 ---
 
-*I believe good code tells a story. I'm still writing mine.*
+### 🎓 Academic & Project Management
+
+- 📋 University Assignments
+  - Project management documentation
+  - UML diagrams
+  - Requirements engineering
+  - Risk management
+  - Software planning
+
+---
+
+## Tech Stack
+
+### Languages
+Python
+
+### Backend
+FastAPI
+Flask
+Django
+
+### Databases
+PostgreSQL
+SQLite
+
+### DevOps & Tools
+Docker
+Git
+Linux
+
+### AI & Data
+Pandas
+NumPy
+Scikit-Learn
+
+---
+
+## Current Focus
+
+- Backend Engineering
+- Distributed Systems & Microservices
+- Machine Learning
+- Data Science
+- System Design
+
+---
+
+## Connect
+
+- GitHub: https://github.com/abdom000
+
+---
+
+> Building projects, breaking projects, fixing projects, and occasionally documenting them before future me forgets how they work.
