@@ -1,8 +1,10 @@
 # Hi, I'm Abdelrahman 👋
 
-I'm a 4th-year Software Engineering student at Kazan Federal University, focused on **Machine Learning** and **Data Science**. I enjoy building practical projects that connect data, models, and real-world problems — from clean data pipelines to deployed ML systems.
+I'm a 4th-year Software Engineering student at Kazan Federal University and a learner on the **ML/DS track at School 21** (Sber's peer-to-peer engineering school, part of the 42 Network).
 
-I'm currently looking for **ML Engineer** or **Data Science** internship opportunities.
+I build practical ML and backend solutions using Python, SQL, and scikit-learn — with hands-on experience in data preprocessing, model evaluation, API development, and applied AI projects. I'm interested in reliable ML systems, AI-assisted products, and real-world data-driven applications.
+
+Currently looking for **ML Engineer** or **Data Science** internship opportunities.
 
 ---
 
@@ -40,7 +42,7 @@ A collection of data analysis and ML projects covering real datasets — includi
 
 ## 🎯 Currently Working On
 
-- Deepening my ML knowledge through hands-on projects and structured workflows
+- Completing the ML/DS track at **School 21** (42 Network, Kazan)
 - Building a marketplace app with an AI-agent-based assistant for smart user support
 - Improving code quality, project documentation, and reproducibility
 
@@ -48,7 +50,9 @@ A collection of data analysis and ML projects covering real datasets — includi
 
 ## 📫 Reach Me
 
-- 📧 Open to internship opportunities — feel free to reach out via GitHub or email
+- 📧 [abdom000@mail.ru](mailto:abdom000@mail.ru)
+- 🏆 [Kaggle — ab00dm0](https://www.kaggle.com/ab00dm0)
+- 💻 [LeetCode — abdoM000](https://leetcode.com/u/abdoM000/)
 - 🌍 Based in Kazan, Russia
 
 ---
