@@ -1,8 +1,9 @@
 # Abdelrahman Mohamed
 
-4th Year Software Engineering Student at KFU interested in Backend Engineering, and Machine Learning.
+4th-year Software Engineering student at Kazan Federal University.
 
-### Repositories
+Focused on Backend Engineering and interested in Data Science, Machine Learning, and Distributed Systems.
+
 ## Repositories
 
 - 🚀 **[AI Lab Equipment Marketplace](https://github.com/abdom000/ai-lab-equipment-marketplace)**  
