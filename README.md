@@ -1,4 +1,3 @@
-}
 # Abdelrahman Mohamed
 
 Software Engineering Student | Backend Development | Machine Learning
