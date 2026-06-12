@@ -1,8 +1,8 @@
 # Abdelrahman Mohamed
 
-4th-year Software Engineering student at Kazan Federal University.
+4th-year Software Engineering student at Kazan Federal University
 
-Focused on Backend Engineering and interested in Data Science, Machine Learning, and Distributed Systems.
+Focused and interested in Data Science, Machine Learning, and Distributed Systems
 
 ## Repositories
 
