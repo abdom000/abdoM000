@@ -1,6 +1,6 @@
 # Abdelrahman Mohamed
 
-4th-year Software Engineering student at [Kazan Federal University](https://eng.kpfu.ru/facts-figures-rankings/)
+4th-year Software Engineering student at [Kazan Federal University](https://eng.kpfu.ru/facts-figures-rankings/) & actively improving my Machine Learning expertise through the hands-on track at [School_21](https://21-school.ru/we)
 
 Backend-oriented Junior ML Engineer focused on building practical AI systems with Python, FastAPI, machine learning pipelines, and production-style infrastructure.
 
