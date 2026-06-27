@@ -6,7 +6,11 @@ Backend-oriented Junior ML Engineer focused on building practical AI systems wit
 
 I work on projects that connect backend engineering with ML/AI workflows: APIs, model serving, data pipelines, classical ML, Kaggle experiments, and LLM/RAG systems.
 
+
 ## Featured Repositories
+
+- 🧠 **[RecoRank ML Platform](https://github.com/abdom000/reco-rank-ml-platform)**  
+  End-to-end recommendation and ranking ML platform using MovieLens 100K, PostgreSQL feature engineering, CatBoost ranking, MLflow experiment tracking, FastAPI inference, Docker, and pytest. Achieved ROC-AUC 0.7818, F1 0.7653, Precision@10 0.3221, and HitRate@10 0.7920 on a time-based test split.
 
 - 🚀 **[AI Lab Equipment Marketplace](https://github.com/abdom000/ai-lab-equipment-marketplace)**  
   Microservices-style backend system with FastAPI, PostgreSQL, Kafka, Docker, API Gateway, JWT authentication, and an AI assistant concept.
@@ -22,9 +26,6 @@ I work on projects that connect backend engineering with ML/AI workflows: APIs, 
 
 - 🌐 **[Networking Labs](https://github.com/abdom000/networking-labs)**  
   Cisco Packet Tracer labs covering OSPF, VLANs, NAT, DHCP, ACLs, routing, and basic network administration.
-
-- 🎓 **[University Assignments](https://github.com/abdom000/university-assignments)**  
-  Academic work covering project management, UML diagrams, requirements engineering, software engineering reports, and university deliverables.
 
 ## Current Focus
 
