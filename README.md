@@ -1,11 +1,10 @@
 # Abdelrahman Mohamed
 
-4th-year Software Engineering student at [Kazan Federal University](https://eng.kpfu.ru/facts-figures-rankings/) & actively improving my Machine Learning expertise through the hands-on track at [School_21](https://21-school.ru/we)
+4th-year Software Engineering student at [Kazan Federal University](https://eng.kpfu.ru/facts-figures-rankings/) and hands-on Machine Learning learner through [School 21](https://21-school.ru/we).
 
-Backend-oriented Junior ML Engineer focused on building practical AI systems with Python, FastAPI, machine learning pipelines, and production-style infrastructure.
+Backend-oriented Junior ML Engineer focused on building practical ML systems with Python, FastAPI, SQL, Docker, model serving, and production-style infrastructure.
 
-I work on projects that connect backend engineering with ML/AI workflows: APIs, model serving, data pipelines, classical ML, Kaggle experiments, and LLM/RAG systems.
-
+I build projects that connect backend engineering with applied ML: recommendation systems, APIs, model inference services, data pipelines, experiment tracking, classical ML, Kaggle experiments, and AI tools.
 
 ## Featured Repositories
 
@@ -31,8 +30,8 @@ I work on projects that connect backend engineering with ML/AI workflows: APIs, 
 
 - Building portfolio proof for Junior ML Engineer / AI Engineer roles
 - Improving backend + ML integration projects
+- Publishing practical ML projects with reproducible pipelines
 - Developing LLM/RAG systems with FastAPI and vector search
-- Publishing Kaggle notebooks for practical ML experiments
 - Strengthening coding interview skills through LeetCode
 
 ## Profiles
